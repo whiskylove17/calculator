@@ -1,0 +1,8 @@
+# Thư viện giao diện chính
+PyQt6>=6.6.0
+
+# Thư viện kiểm thử tự động (Development & Testing)
+pytest>=7.4.0
+
+# Tùy chọn: Đóng gói thành file thực thi độc lập (.exe)
+# pyinstaller>=6.0.0
